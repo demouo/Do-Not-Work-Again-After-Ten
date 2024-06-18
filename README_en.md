@@ -11,4 +11,6 @@ These are not my talk points, but a reminder that there is an 80% chance that th
 | Time         | Where            | Job         | Fact         | Long-Term Reason(s) |
 |--------------|------------------|-------------|--------------|---------------------|
 | June 8, 2024 | Home before dawn | NE-Designer | Sudden Death | A lot of overtime   |
+| 2024.6.17|Company workstations |Shopee R&D Center personnel|No heartbeat, the company doesn't have AED|According to employee feedback, the workload of Shopee has increased this year, and employees usually need to work until 9pm to 10pm without overtime compensation; Overtime at night cannot accumulate compensatory time off, unless overtime is extended until late at night, allowing for a brief rest the next day. However, compared with other Internet companies, Shopee's working environment is relatively good.|
+
 
